@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "guP84n3b6KLKBBT+i7n7gH5PsgGB+WLPN3MGwAA/jFSixKTqk3n3zrHyIl674xZ/voIlPtFoJed2rbbvbaMYrg==",
+  "success": false,
+  "projectFilePath": "D:\\OOSD\\cw2\\BookMyTrain\\TestProject1\\TestProject1.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project Business is not compatible with net6.0 (.NETCoreApp,Version=v6.0). Project Business supports: net6.0-windows7.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Business",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
