@@ -7,7 +7,6 @@ A comprehensive train booking system built with WPF (Windows Presentation Founda
 BookMyTrain is a desktop application that allows users to book train tickets with various options including seat selection, meal preferences, and route choices. The system implements a three-tier architecture (Presentation, Business, and Data layers) and demonstrates key OOSD principles including encapsulation, abstraction, and separation of concerns.
 
 **Course**: Object-Oriented Software Development (OOSD)  
-**Student ID**: 40441375  
 **Institution**: Edinburgh Napier University
 
 ## ✨ Key Features
