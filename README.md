@@ -336,6 +336,11 @@ This project demonstrates proficiency in:
 
 ## 🧪 Testing
 
+## 📸 Screenshots
+
+<img width="1306" height="2051" alt="Train booking class diagram drawio" src="https://github.com/user-attachments/assets/d13bdfe4-844c-4c1e-9043-9db6ada076f0" />
+
+
 ### Test Scenarios
 1. **Valid Booking**: Complete form with all fields, verify cost calculation
 2. **Empty Name**: Try booking without entering name, expect error message
