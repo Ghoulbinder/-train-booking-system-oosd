@@ -333,13 +333,12 @@ This project demonstrates proficiency in:
 - **Logging**: Application activity logging
 - **Configuration**: External config file for settings
 - **API Integration**: Connect to external train schedule APIs
-
-## 🧪 Testing
-
+- 
 ## 📸 Screenshots
 
 <img width="1306" height="2051" alt="Train booking class diagram drawio" src="https://github.com/user-attachments/assets/d13bdfe4-844c-4c1e-9043-9db6ada076f0" />
 
+## 🧪 Testing
 
 ### Test Scenarios
 1. **Valid Booking**: Complete form with all fields, verify cost calculation
